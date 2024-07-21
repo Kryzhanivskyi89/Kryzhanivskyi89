@@ -14,12 +14,12 @@ JavaScript/TypeScript, HTML/CSS, React, and Node.js/Express.🚀</div>
 
 ### Experience  
 - Full Stack Developer: Over 2 years of experience in developing comprehensive web applications:
-	1.	Backend Development: Expertise in building RESTful APIs, user authentication, and data management using Node.js, Express, and MongoDB.
-	2.	Frontend Development: Proficient in creating responsive and interactive user interfaces with React, Redux, and modern JavaScript frameworks.
-	3.	Problem Solving: Proven ability to troubleshoot and resolve complex technical issues, ensuring smooth and efficient application performance.
-	4.	Database Management: Experienced in designing and maintaining robust databases, ensuring data integrity and security.
-	5.	Collaboration: Strong communicator and team player, effectively collaborating with cross-functional teams to achieve project goals.
-	6.	Portfolio Projects: Developed and deployed various projects, including CRM systems, movie search applications, recipe management apps, and energy solution landing pages.  
+- Backend Development: Expertise in building RESTful APIs, user authentication, and data management using Node.js, Express, and MongoDB.
+- Frontend Development: Proficient in creating responsive and interactive user interfaces with React, Redux, and modern JavaScript frameworks.
+- Problem Solving: Proven ability to troubleshoot and resolve complex technical issues, ensuring smooth and efficient application performance.
+- Database Management: Experienced in designing and maintaining robust databases, ensuring data integrity and security.
+- Collaboration: Strong communicator and team player, effectively collaborating with cross-functional teams to achieve project goals.
+- Portfolio Projects: Developed and deployed various projects, including CRM systems, movie search applications, recipe management apps, and energy solution landing pages.  
   
 
 
@@ -125,13 +125,6 @@ If things goes well, this section should automatically be replaced by a list of 
 <br/>  
 
 
-
-<br/>  
-
-
-## Support Me  
-<div align="center"></div>
-<br />
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
