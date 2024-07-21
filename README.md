@@ -1,7 +1,4 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
+
 
 ### <div align="center">I'm Andrii Kryzhanivskyi, full-stack developer 👨‍💻 
 JavaScript/TypeScript, HTML/CSS, React, and Node.js/Express.🚀</div>  
@@ -127,10 +124,7 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Kryzhanivskyi89&&style=flat-square" align="center" />
-</div>  
-  
+
 
 <br/>  
 
