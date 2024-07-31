@@ -23,6 +23,10 @@ JavaScript/TypeScript, HTML/CSS, React, and Node.js/Express.🚀</div>
 - Consistently delivered projects with a focus on responsive design, user experience, and seamless functionality.
 - Proven ability to work collaboratively in team settings, contributing to the success of group projects through effective communication and problem-solving skills.
 
+* 🌍 I'm based in Україна
+* 🖥️ See my portfolio at [My portfolio](http://kryzhanivskyi89.github.io/portfolio/)
+* ✉️ You can contact me at [kryzhanivskyi.an@gmail.com](mailto:kryzhanivskyi.an@gmail.com)
+
 <br/>
 
 ## My Skill Set
@@ -90,18 +94,31 @@ JavaScript/TypeScript, HTML/CSS, React, and Node.js/Express.🚀</div>
 <a href="https://codepen.com/@Andrew-506" target="_blank">
 <img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
 </a>  
-</div>  
-
+</div>
 
 <br/>
 
 ## Github Stats
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Kryzhanivskyi89&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+### Badges
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kryzhanivskyi89&hide_border=true&layout=compact" align="center" /></div>
+<b>My GitHub Stats</b>
 
-<br/>
+<a href="http://www.github.com/Kryzhanivskyi89"><img src="https://github-readme-stats.vercel.app/api?username=Kryzhanivskyi89&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="Kryzhanivskyi89's GitHub stats" /></a>
+
+<a href="http://www.github.com/Kryzhanivskyi89"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Kryzhanivskyi89&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/Kryzhanivskyi89"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Kryzhanivskyi89&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/Kryzhanivskyi89" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kryzhanivskyi89&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>My Codewars Stats</b>
+
+<a href="http://www.github.com/Kryzhanivskyi89"><img src="https://www.codewars.com/users/Kryzhanivskyi89/badges/large" alt="Kryzhanivskyi89's Codewar stats" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
 
 ## Recent Blog Posts
 
