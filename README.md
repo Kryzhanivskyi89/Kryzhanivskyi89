@@ -1,10 +1,10 @@
-### <div align="center">I'm Andrii Kryzhanivskyi, full-stack developer 👨‍💻
+### <div align="center">I'm Andrii Kryzhanivskyi, Full-Stack Developer 👨‍💻
 
-JavaScript/TypeScript, HTML/CSS, React, and Node.js/Express.🚀</div>
+JavaScript/TypeScript, HTML/CSS, React.js/Next.js and Node.js/Express.🚀</div>
 
 ### About Me
 
-- As a dedicated web developer, I have cultivated a diverse skill set and an impressive portfolio through a range of projects, both individual and team-based. My experience spans across backend and frontend development, user authorization, database integration, and responsive design, allowing me to deliver comprehensive and effective IT solutions.
+- Frontend and Full Stack developer with 2 years of experience. Created more than 10 web applications and landing pages within the terms of reference and deadlines, receiving positive feedback and recommendations from customers. I have cultivated a diverse skill set and an impressive portfolio through a range of projects, both individual and team-based. My experience spans across backend and frontend development, user authorization, database integration, and responsive design, allowing me to deliver comprehensive and effective IT solutions. Specialization: CRM systems, landing pages, authorization, APIs.
 
 ### Experience
 
@@ -18,14 +18,18 @@ JavaScript/TypeScript, HTML/CSS, React, and Node.js/Express.🚀</div>
 
 ### Achievements
 
-- Successfully developed and deployed a variety of web applications, demonstrating versatility and expertise in both frontend and backend technologies.
-- Addressed and resolved complex technical issues, ensuring robust and reliable application performance.
-- Consistently delivered projects with a focus on responsive design, user experience, and seamless functionality.
-- Proven ability to work collaboratively in team settings, contributing to the success of group projects through effective communication and problem-solving skills.
+- Development of the main functionality of the CRM system: Designed and implemented the key components of the Mriya-CRM CRM system, which included lists of employees, customers, services, and goods. This significantly increased the efficiency of customer base management and automated business processes.
+- Development and optimization of landing pages: I developed and optimized several landing pages, such as Portfolio, Web Studio, EcoSolution, Portfolio, and Cakes. In these projects, I provided responsive layout with Retina support, creating an attractive and user-friendly interface.
+- Backend development: Successfully integrated with the Python and PostgreSQL backend in Mriya-CRM, as well as developed a Node.js backend for data processing and connected MongoDB in 3 freelance projects, which ensured stable and uninterrupted operation of the systems.
+- Authorization implementation: Fully developed and implemented a user authorization system, both on the frontend (1 project) and on the server side (2 projects), ensuring reliable data protection and secure access to systems.
+- Performance optimization: I used modern technologies such as React, Redux and RTK Query, React Hook Form to ensure fast and stable operation of applications both in Mriya-CRM and in freelance projects, which led to a decrease in page load time and increased system performance.
+- Integration of special features: In the Cakes project, Cakes added the functionality of sending emails via Nodemailer and a promotions timer, which increased user convenience and improved customer service.
+- Teamwork: Effectively collaborated with other team members at BeautySync, as well as coordinated freelance projects, which allowed for successful project delivery on time.
+- Continuous improvement: I worked on improving the Mriya-CRM system and implementing new features, and constantly developed my skills through freelance projects such as Phonebook, EcoSolution, So Yummy, and others, which helped me to keep abreast of the latest technologies and approaches.
 
-* 🌍 I'm based in Україна
-* 🖥️ See my portfolio at [My portfolio](http://kryzhanivskyi89.github.io/portfolio/)
-* ✉️ You can contact me at [kryzhanivskyi.an@gmail.com](mailto:kryzhanivskyi.an@gmail.com)
+- 🌍 I'm based in Україна
+- 🖥️ See my portfolio at [My portfolio](http://kryzhanivskyi89.github.io/portfolio/)
+- ✉️ You can contact me at [kryzhanivskyi.an@gmail.com](mailto:kryzhanivskyi.an@gmail.com)
 
 <br/>
 
